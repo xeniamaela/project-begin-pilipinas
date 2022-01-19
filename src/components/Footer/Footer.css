@@ -1,0 +1,9 @@
+.side-icons {
+  top: 50%;
+  left: 0;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  position: relative;
+  z-index: 100;
+}
+/*# sourceMappingURL=Footer.css.map */
